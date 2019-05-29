@@ -4,7 +4,7 @@
 
 ---
 
-# GitPitch のここがすごい
+@title[GitPitch のここがすごい]
 
 @snap[west span-55]
 @ul[spaced text-white]
