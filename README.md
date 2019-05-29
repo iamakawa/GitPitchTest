@@ -1,2 +1,0 @@
-# GitPitchTest
-GitPitch-Test
