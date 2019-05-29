@@ -4,6 +4,26 @@
 
 ---
 
+# GitPitch のここがすごい
+
+@snap[west span-55]
+@ul[spaced text-white]
+
+- リストを順番に表示できる(Markdown)
+- _イタリック_
+- And **ボールド**
+  @ulend
+  @snapend
+
+@snap[east span-45]
+
+## 画像もはさめる
+
+@img[shadow](assets/img/conference.png)
+@snapend
+
+---
+
 ## Add Some Slide Candy
 
 ![](assets/img/presentation.png)
