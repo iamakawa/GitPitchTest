@@ -2,7 +2,7 @@
 
 ## iamakawa
 
----
+---?color=blue
 
 @title[GitPitch のここがすごい]
 
